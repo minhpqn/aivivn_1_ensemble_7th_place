@@ -1,6 +1,6 @@
-# Mô hình ensemble đơn giản cho phân loại sắc thái bình luận (6th place solution)
+# Mô hình ensemble đơn giản cho phân loại sắc thái bình luận (7th place solution)
 
-Mã nguồn của mô hình xếp hạng 6 tại cuộc thi phân loại
+Mã nguồn của mô hình xếp hạng 7 tại cuộc thi phân loại
 sắc thái bình luận do [Aivivn](https://www.aivivn.com/contests/1) tổ chức.
 
 ## Requirements
